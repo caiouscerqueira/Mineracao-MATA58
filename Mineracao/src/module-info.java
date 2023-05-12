@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Marle
+ *
+ */
+module Mineracao {
+}
